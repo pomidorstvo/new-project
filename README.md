@@ -1,1 +1,1 @@
-test
+Для використання гілки `development` введіть команду `git checkout development`, або ви з самого початку можете склонувати гілку `development` командою `git clone -b development <посилання на репозиторій> `.
